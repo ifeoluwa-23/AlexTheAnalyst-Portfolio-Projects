@@ -16,5 +16,6 @@
 :broom: **Data Cleaning using SQL**
     
   The ETL process was carried out on Nashville Housing data by cleaning the data with SQL.
+  - *Review the Data Cleaning SQL Script:* [HERE](https://github.com/ifeoluwa-23/AlexTheAnalyst-Portfolio-Projects/blob/main/Data%20Cleaning%20Script/Data%20Cleaning%20Script.sql)
 
 ###### Skills used: Joins, Converting Data Types, Alter and Update Tables, Use of Parsename, Substring, Case, Partition and Aggregate Functions, Creating Views.
