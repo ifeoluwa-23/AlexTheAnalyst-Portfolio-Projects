@@ -11,6 +11,7 @@
 :bar_chart: **Data Visualization using Power BI**
     
   Some of the queries in the data exploration project were using to create visualizations in Power BI.
+  - *See on my Power BI Dashboard:* [HERE](https://app.powerbi.com/groups/d6bcd25c-dd72-4f13-9883-203d87c14051/reports/d63df2f9-b189-4e4a-ba7c-9bda6b111bf3/ReportSection)
     
 :broom: **Data Cleaning using SQL**
     
